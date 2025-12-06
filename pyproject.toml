@@ -1,0 +1,17 @@
+[project]
+name = "rag-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "langchain>=1.1.2",
+    "langchain-community>=0.4.1",
+    "langchain-google-genai>=3.2.0",
+    "langchain-huggingface>=1.1.0",
+    "pymongo>=4.15.5",
+    "pypdf>=6.4.0",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.1.2",
+]
