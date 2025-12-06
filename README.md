@@ -62,6 +62,18 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
+OR
+
+### 2. Initialize UV
+
+```bash
+uv init
+```
+
+```bash
+uv venv
+```
+
 ### 3. Install Dependencies
 
 Using UV (recommended):
