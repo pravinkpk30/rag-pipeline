@@ -114,7 +114,7 @@ cp .env.example .env
 GOOGLE_API_KEY=your_google_api_key_here
 
 # MongoDB Atlas Connection String
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/?appName=Rag
+MONGODB_URI=MONGODB_CONNECTION_STRING
 ```
 
 ### 3. MongoDB Atlas Setup
